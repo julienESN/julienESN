@@ -15,16 +15,10 @@
 
 <br>
 
-🧠 **Currently learning:** ` C 🧠 `
+🧠 **Currently learning:** ` Next  `
 
 💡 **Interested in:** `Front-End 🚀` `System Design 🧠` `Monitoring 🚦`
 
- ## What I've Done 👨🏻‍💻
-
-<div align="center">
-    
-[📝 Notes App](https://github.com/julienESN/notes-app) | [🎥 Movies App](https://github.com/julienESN/moviefinder) | [🔥 Calculator](https://github.com/julienESN/Calculator-in-C)  
---- | --- | ---
 
 </div>
 
