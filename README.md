@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="greetings.gif" align="center" height="" width="500" />
+    <img src="Capture d’écran 2024-06-15 174210.png" align="center" height="" width="500" />
 </div>
 
 ### <div align="center" width="200">I am Julien, a French Engineer 🇫🇷</div>
